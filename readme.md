@@ -1,4 +1,5 @@
-[View My Badge](https://google.qwiklabs.com/public_profiles/d1545912-9488-4f70-8e0e-5a41b479a858/badges/1097124)
+[View Google Cloud Platform Qwiklabs Badge](https://google.qwiklabs.com/public_profiles/d1545912-9488-4f70-8e0e-5a41b479a858/badges/1097124) \
+[View My Coursera Certificate](https://coursera.org/share/38c50cdbcad3c408f74708b602918784)
 
 - Performed data analytics on Google Cloud Platform and wrote the **SQL** queries to get the following results.
 
@@ -15,4 +16,7 @@
 Each queries were written separately.
 
 - Accessed and analyzed the public dataset 'covid-19-public-data' within GCP.
+![image info](./dataStudioReport.png)
+- SKILLS APPLIED: ANSI SQL, Machine Learning, Data Visualization(DataViz), SQL, Google Cloud Platform, Cloud Computing, data analysis, business analysis, business intelligence, cloud engineering.
+- Coursera Link: https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform 
 
