@@ -1,27 +1,18 @@
 [View My Badge](https://google.qwiklabs.com/public_profiles/d1545912-9488-4f70-8e0e-5a41b479a858/badges/1097124)
 
+- Performed data analytics on Google Cloud Platform and wrote the **SQL** queries to get the following results.
 
-The following project was accomplised on the Google Cloud Platform. 
-
-The following tasks were performed as a part of the challenge. At the end of completion, a badge was earned.
-
-Badge:
-
-Insights from Data with BigQuery: 
-
-The public dataset 'covid-19-public-data' was accessed on GCP and performed the following challenge in order.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Q1. Total Confirmed Cases\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Q2. Worst Affected Areas\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Q3. Identifying Hotspots\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Q4. Fatality Ratio\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Q5. Identifying Specific day\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Q6. Finding days with zero net new cases\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Q7. Doubling Rate\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Q8. Recovery Rate\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Q9. CDGR - Cumulative Daily Growth Rate\
 
 Each queries were written separately.
 
-Q1. Total Confirmed Cases
-Q2. Worst Affected Areas
-Q3. Identifying Hotspots
-Q4. Fatality Ratio
-Q5. Identifying Specific day
-Q6. Finding days with zero net new cases
-Q7. Doubling Rate
-Q8. Recovery Rate
-Q9. CDGR - Cumulative Daily Growth Rate
-
-After completing all the task, a report was created on DataStudio, GCP Platfrom.
+- Accessed and analyzed the public dataset 'covid-19-public-data' within GCP.
 
